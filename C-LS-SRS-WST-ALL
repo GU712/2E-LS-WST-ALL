@@ -16,13 +16,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]1923 (2022) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]1923 (2022) - ATUALIZANDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C13-SRS-1923-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9I6LgZ5110ycg4pyobJxGTFWFCF.jpg</fanart>
 <info>Assista a série 1923. 
 [COLOR orange][B]WESTERN[/B][/COLOR]
-[COLOR orange][B]01 TEMPS - 08 EPs[/B][/COLOR]
+[COLOR orange][B]01 TEMPS - 01 EPs[/B][/COLOR]
 [COLOR orange][B]ANOS - 2022[/B][/COLOR]</info>
 </channel>
 </channels>
@@ -315,7 +315,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES - LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/3-SRS-ALL/main/2A-SRS-GEN-LS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/3-SRS-ALL/main/2A-SEL-SRS-GEN-LS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -359,7 +359,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU GERAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/B1-MENU-LS-CAT-MTX/main/A-CATEGORIAS-MTX</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
