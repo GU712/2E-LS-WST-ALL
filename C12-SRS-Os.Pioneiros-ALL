@@ -8,16 +8,6 @@
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
-<item>	
-<title>[COLOR orange][B]ABERTURA[COLOR yellow] ->[COLOR white]Os Pioneiros[/COLOR][/B]</title>	
-<link>plugin://plugin.video.tubemusic/?video_id=wNNkAAzmI0E</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/iPbWZcxiuMyzcoKjE7tzImyPpt.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart>
-<info>Os Ingalls, uma família pura e unida que vivia numa pequena casa na pradaria, num povoado chamado Walnut Grove.</info>
-<genre>WESTERN</genre> 
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 01 (1974) 24 EPs - SD DUB+LEG[/B][/COLOR]</title>
@@ -220,8 +210,104 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Os.Pioneiros/T02/LS-T02E22.mkv</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hurlUveOuwYJxIN2jT66eVRkahM.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 03 (1976) 24 EPs - SD LEG[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item><title>[COLOR orange][B]LS-T03E01[COLOR yellow] -> [COLOR white]A Coleta[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/SRS/5-WST/Os.Pioneiros/T03/LS-T03E01.AVI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E02[COLOR yellow] -> [COLOR white]Cavalgarei o Vento[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/SRS/5-WST/Os.Pioneiros/T03/LS-T03E02.AVI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E03[COLOR yellow] -> [COLOR white]Bunny[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/SRS/5-WST/Os.Pioneiros/T03/LS-T03E03.AVI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E04[COLOR yellow] -> [COLOR white]A Corrida[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/SRS/5-WST/Os.Pioneiros/T03/LS-T03E04.AVI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E05[COLOR yellow] -> [COLOR white]O Monstro de Walnut Grove[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/SRS/5-WST/Os.Pioneiros/T03/LS-T03E05.AVI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E06[COLOR yellow] -> [COLOR white]Viagem Na Primavera (Parte 1)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/SRS/5-WST/Os.Pioneiros/T03/LS-T03E06.AVI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E07[COLOR yellow] -> [COLOR white]Viagem Na Primavera (Parte 2)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/SRS/5-WST/Os.Pioneiros/T03/LS-T03E07.avi</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E08[COLOR yellow] -> [COLOR white]Fred[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/SRS/5-WST/Os.Pioneiros/T03/LS-T03E08.avi</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E09[COLOR yellow] -> [COLOR white]Os Valentões[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/SRS/5-WST/Os.Pioneiros/T03/LS-T03E09.avi</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E10[COLOR yellow] -> [COLOR white]Os Caçadores (Parte 1)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/SRS/5-WST/Os.Pioneiros/T03/LS-T03E10.avi</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E11[COLOR yellow] -> [COLOR white]Os Caçadores (Parte 2)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/SRS/5-WST/Os.Pioneiros/T03/LS-T03E11.avi</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E12[COLOR yellow] -> [COLOR white]Nevasca[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/SRS/5-WST/Os.Pioneiros/T03/LS-T03E12.avi</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E13[COLOR yellow] -> [COLOR white]Quarentena[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/SRS/5-WST/Os.Pioneiros/T03/LS-T03E13.avi</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E14[COLOR yellow] -> [COLOR white]Mulherzinhas[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/SRS/5-WST/Os.Pioneiros/T03/LS-T03E14.avi</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E15[COLOR yellow] -> [COLOR white]O Mestiço[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/SRS/5-WST/Os.Pioneiros/T03/LS-T03E15.avi</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E16[COLOR yellow] -> [COLOR white]16_Viver Com Medo (Parte 1)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/SRS/5-WST/Os.Pioneiros/T03/LS-T03E16.avi</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E17[COLOR yellow] -> [COLOR white]Viver Com Medo (Parte 2)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/SRS/5-WST/Os.Pioneiros/T03/LS-T03E17.avi</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E18[COLOR yellow] -> [COLOR white]A Sabedoria de Salomão[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/SRS/5-WST/Os.Pioneiros/T03/LS-T03E18.avi</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E19[COLOR yellow] -> [COLOR white]A Caixa de Música[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/SRS/5-WST/Os.Pioneiros/T03/LS-T03E19.avi</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E20[COLOR yellow] -> [COLOR white]A Eleição[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/SRS/5-WST/Os.Pioneiros/T03/LS-T03E20.avi</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E21[COLOR yellow] -> [COLOR white]Terra do Ouro (Parte 1)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/SRS/5-WST/Os.Pioneiros/T03/LS-T03E21.avi</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]LS-T03E22[COLOR yellow] -> [COLOR white]Terra do Ouro (Parte 2)[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/2:/SRS/5-WST/Os.Pioneiros/T03/LS-T03E22.avi</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uYod60nPfpIZx6ggDLXVQXS8Zb6.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart></item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
