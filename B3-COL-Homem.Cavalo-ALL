@@ -15,9 +15,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/aOsvukpYGg6ZZDftHK2NOhdmAYP.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]Um Homem Chamado Cavalo
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL
-[COLOR orange]ANO - 1970
-[COLOR orange]WESTERN
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1970
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um inglês é capturado por uma tribo indígena Sioux, e é dado de presente à mãe do chefe para ser seu criado. Gradualmente, ele abraça o modo de vida da tribo e apaixona-se pela irmã do Chefe. 
 [/COLOR]</info>
 </item>
@@ -30,13 +30,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/1Nas9syOK93PltBGVjXJi9QvxM3.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]A Vingança De Um Homem Chamado Cavalo
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL
-[COLOR orange]ANO - 1976
-[COLOR orange]WESTERN
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1976
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]John Morgan, desiludido com a aristocracia civilizada da Inglaterra, retorna para o oeste americano à procura da energia vital e primitiva, de quando conviveu com os índios, da tribo 
 [/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
@@ -58,7 +61,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
 <item>
 <title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
