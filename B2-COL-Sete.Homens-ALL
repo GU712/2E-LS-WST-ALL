@@ -15,9 +15,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/9mDuWbRFl0YRommbtUsfBosUhBn.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]Sete Homens e Um Destino
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1960
-[COLOR orange]WESTERN
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1960
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Eles eram em sete e lutaram como setecentos!
 [/COLOR]</info>
 </item>
@@ -30,9 +30,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/qEaSA4HLzJfbP9GnBJbVJ04dohB.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]A Volta dos Sete Homens
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 1966
-[COLOR orange]WESTERN
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1966
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Seis anos se passaram desde que Chico cavalgou com Chris e os sete , agora eles precisam voltar para fazer justiça de novo.
 [/COLOR]</info>
 </item>
@@ -45,9 +45,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/9mM1DnYGAuImUdsEso0OFwfT0HV.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]A Revolta dos Sete Homens
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]SD DUAL+LEG
-[COLOR orange]ANO - 1969
-[COLOR orange]WESTERN
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1969
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Os Sete Homens cavalgam novamente nesta sequência de uma das mais brilhantes sagas de faroeste da história do cinema.
 [/COLOR]</info>
 </item>
@@ -59,10 +59,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://www.themoviedb.org/t/p/original/7ym191nwtnc6pEkvLI254nteBlD.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/uKpErZOYvNn2Cg6poOS5j2sMWUp.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
-[B]<NOMEDOFILME>
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]HD DUAL+LEG
-[COLOR orange]ANO - 1972
-[COLOR orange]WESTERN
+[B]A Fúria dos Sete Homens
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1972
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Os sete pistoleiros magníficos cavalgam novamente agora com Lee Van Cleef
 [/COLOR]</info>
 </item>
@@ -75,14 +75,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/nHq9wDdwKhnZg51Rvv3MMJlq9Kb.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]Sete Homens e Um Destino
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
-[COLOR orange]ANO - 2016
-[COLOR orange]WESTERN
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2016
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A justiça tem um número,7.
 [/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
@@ -103,7 +104,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
