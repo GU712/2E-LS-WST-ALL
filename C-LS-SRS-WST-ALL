@@ -316,14 +316,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Yellowstone (2018-2021) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Yellowstone (2018-2021) - ATUALIZANDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C2-SRS-Yellowstone-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/lcmDSMFa6NVjeCg9IO9KCxErRj2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/eScHwfVVumgrHT9fHdDNhUpcFcR.jpg</fanart>
-<info>Assista a série Yellowstone. 
-[COLOR orange][B]WESTERN[/B][/COLOR]
-[COLOR orange][B]04 TEMPS -  	37  EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 2018 a 2021[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui a série: 
+[B]Yellowstone
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018 a 2021
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPS - 47  EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]John Dutton tenta proteger seu rancho, o maior dos Estados Unidos, de um mundo corrupto.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
