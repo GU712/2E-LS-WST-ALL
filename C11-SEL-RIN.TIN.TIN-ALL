@@ -12,14 +12,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]As Aventuras de Rin Tin Tin (LS-1)[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]As Aventuras de Rin Tin Tin (LS-1)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C11A-SRS-Rin.Tin.Tin-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/325dZgSWTdsu2xlSJIlhkDBteUa.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/99iqOtitg8njtuxja2jnRyOE0ft.jpg</fanart>
 <info>[COLOR white]Conheça a opção 1 em: 
 [B]As Aventuras de Rin Tin Tin
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]WESTERN
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui na opção 1 você pode assistir os episódios que temos sobre As Aventuras de Rin Tin Tin.
 Não encontrou o que queria ?
 Solicite ao SUPORTE AO USUÁRIO .
@@ -30,14 +30,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]As Aventuras de Rin Tin Tin (LS-2)[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]As Aventuras de Rin Tin Tin (LS-2)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C11B-SRS-Rin.Tin.Tin-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/325dZgSWTdsu2xlSJIlhkDBteUa.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/99iqOtitg8njtuxja2jnRyOE0ft.jpg</fanart>
 <info>[COLOR white]Conheça a opção 2 em:  
 [B]As Aventuras de Rin Tin Tin
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
-[COLOR orange]WESTERN
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui na opção 2 você pode assistir os episódios que temos sobre As Aventuras de Rin Tin Tin.
 Não encontrou o que queria ?
 Solicite ao SUPORTE AO USUÁRIO .
@@ -51,7 +51,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C11-SEL-RIN.TIN.TIN-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 </channel>
@@ -61,7 +61,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C11-SEL-RIN.TIN.TIN-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
