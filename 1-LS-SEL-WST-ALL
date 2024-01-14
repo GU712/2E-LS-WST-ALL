@@ -66,6 +66,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]LISTÃO FILMES DE WESTERN - S.AV-3[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/A-LS-FLM-WST-ALL</externallink>
+<thumbnail>https://i.ibb.co/SvD0pZ2/WESTERN-FLM-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/X2TwfPJ/WESTERN-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a seção: 
+[B]FILMES DE WESTERN
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico que conta histórias da vida de cowboys, pistoleiros armados e Indios com revólveres e rifles da época do Velho Oeste dos Estados Unidos.
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
+Não encontrou o que queria ? 
+Peça ao SUPORTE AO USUÁRIO
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR black].[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/1-LS-SEL-WST-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
