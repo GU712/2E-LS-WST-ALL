@@ -84,7 +84,7 @@ https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-A.Conquista.do.Oeste.19
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5uAkuvmKmr3qxiEqzqk0Th0RCxf.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Coração de Aço (1934)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/A.Lei.do.Gatilho.(1934).avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6dvaohBsayEsba8Cy42w6NnPwE7.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Álamo (1960)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Alamo.(1960).avi
+https://luminart.ls.lsnew.workers.dev/1:/FLMS/5WST-FM/LS-O.Alamo.1960.FHD.DUB+LEG-LS.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/icBkw2losJ8OIWuC67zEOT8s1m2.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Caminhos Ásperos (1953)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/Caminhos.Asperos.Hondo.(1953).avi
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hzxcSilaWXwOm6RXbHT1Mm56o4W.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Cahill, o Xerife do Oeste (1973)[/B][/COLOR]
@@ -106,7 +106,7 @@ https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-The.Cowboys.1972.FHD.DU
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sDIuinq3XV3OtnEqTC9NzUb7czL.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Cowboys (1972)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-The.Cowboys.1972.FHD.DUAL.LEGFIX.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5yIHwCroj35oQXfppNKCKaEZcLL.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Homem Que Matou Facinora (1962)[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/O Último Pistoleiro - 1976 - 1080p.mkv
+https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/O.Ultimo.Pistoleiro.(1976).FHD.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oRC4VF4u6NpdiSq5zA0Atrb8hl3.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Último Pistoleiro (1976)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/1:/COL.ESP/John.Wayne/O.Ceu.Mandou.Alguem.(1948).mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uO85eZfqIYIcbkfKlfyDUCeNvK7.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Ceu Mandou Alguem (1948)[/B][/COLOR]
@@ -163,5 +163,6 @@ LINKDOFILME
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 
