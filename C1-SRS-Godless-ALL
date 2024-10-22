@@ -1,10 +1,26 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
 </item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>	
+<title>[COLOR orange][B]Godless[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8iHVVdQUYPU0QIm2d2r7sEgQAFE.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Godless
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2017
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 07 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um bandido implacável aterroriza o oeste à procura de um desertor de seu bando que encontrou uma nova vida em uma cidadezinha habitada apenas por mulheres.
+[/COLOR]</info>
+<item>	
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
@@ -16,61 +32,81 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]Aconteceu em Creede[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Aconteceu em Creede[COLOR yellow] -> LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/SRS/5-WST/Godless/LS-T01E01.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/8iHVVdQUYPU0QIm2d2r7sEgQAFE.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/8iHVVdQUYPU0QIm2d2r7sEgQAFE.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]As Mulheres de La Belle[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]As Mulheres de La Belle[COLOR yellow] -> LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/SRS/5-WST/Godless/LS-T01E02.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/8iHVVdQUYPU0QIm2d2r7sEgQAFE.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/8iHVVdQUYPU0QIm2d2r7sEgQAFE.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]A Sabedoria do Cavalo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]A Sabedoria do Cavalo[COLOR yellow] -> LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/SRS/5-WST/Godless/LS-T01E03.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/8iHVVdQUYPU0QIm2d2r7sEgQAFE.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/8iHVVdQUYPU0QIm2d2r7sEgQAFE.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Mantenha Distância[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Mantenha Distância[COLOR yellow] -> LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/SRS/5-WST/Godless/LS-T01E04.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/8iHVVdQUYPU0QIm2d2r7sEgQAFE.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/8iHVVdQUYPU0QIm2d2r7sEgQAFE.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Tiro Certeiro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Tiro Certeiro[COLOR yellow] -> LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/SRS/5-WST/Godless/LS-T01E05.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/8iHVVdQUYPU0QIm2d2r7sEgQAFE.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/8iHVVdQUYPU0QIm2d2r7sEgQAFE.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Prezado Roy[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Prezado Roy[COLOR yellow] -> LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/SRS/5-WST/Godless/LS-T01E06.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/8iHVVdQUYPU0QIm2d2r7sEgQAFE.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/8iHVVdQUYPU0QIm2d2r7sEgQAFE.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Boas-vindas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Boas-vindas[COLOR yellow] -> LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/SRS/5-WST/Godless/LS-T01E07.mkv</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/8iHVVdQUYPU0QIm2d2r7sEgQAFE.jpg</fanart></item>
+<thumbnail>https://www.themoviedb.org/t/p/original/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/8iHVVdQUYPU0QIm2d2r7sEgQAFE.jpg</fanart>
+[COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
-<link>https://ls.lsnew.workers.dev/0:ignoreme</link>				
+<link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>https://ls.lsnew.workers.dev/0:ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>https://ls.lsnew.workers.dev/0:ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
