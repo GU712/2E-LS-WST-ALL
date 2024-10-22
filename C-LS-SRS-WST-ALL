@@ -187,17 +187,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Godless (2017) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C1-SRS-Godless-ALL</externallink>
+<name>[COLOR white][B]Godless (2017) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C001-SRS-Godless-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8iHVVdQUYPU0QIm2d2r7sEgQAFE.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Godless
+[COLOR black].[/COLOR]
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2017
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 07 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um bandido implacável aterroriza o oeste à procura de um desertor de seu bando que encontrou uma nova vida em uma cidadezinha habitada apenas por mulheres.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um bandido implacável aterroriza o oeste à procura de um desertor de seu bando que 
+encontrou uma nova vida em uma cidadezinha habitada apenas por mulheres.
 [/COLOR]</info>
 </channel>
 </channels>
