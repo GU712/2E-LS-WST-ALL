@@ -1,7 +1,7 @@
 <channels>
-<channel>
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A1-SEL-SRS-NUM-ALL</externallink>
+<channel>				
+<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name> 					
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C-LS-SRS-WST-ALL</externallink>			
 <thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>				
 <info>[B]FAÇA SUA ESCOLHA 
@@ -10,6 +10,10 @@ E DIVIRTA-SE[/B]</info>
 </channels>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+NUMERAL			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <channels>
 <channel>
@@ -54,41 +58,161 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "A"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
 <channels>
 <channel>
-<name>[COLOR white][B]2 Guerra em Cores: Caminho para a Vitória (2021) - COMPLETA - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2C-LS-GRR-ALL/main/C13-SRS-2WW.COLOR.Caminho.a.Vitoria-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/5oh31ezUR8LOf7gAQPtUv6ePzFP.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/anYzA7qDyx3yXEK4mEIbSVAL4Vp.jpg</fanart>
+<name>[COLOR white][B]As Aventuras de Rin Tin Tin (1954-1958) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name> 	
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C11-SEL-RIN.TIN.TIN-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/325dZgSWTdsu2xlSJIlhkDBteUa.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/99iqOtitg8njtuxja2jnRyOE0ft.jpg</fanart>
+<info>[COLOR white]Selecione a opção em: 
+[B]As Aventuras de Rin Tin Tin
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre As Aventuras de Rin Tin Tin.
+Não encontrou o que queria ?
+Solicite ao SUPORTE AO USUÁRIO .
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "B"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<channels>
+<channel>
+<name>[COLOR white][B]Bat Masterson (1958-1960) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name> 	
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C15-SRS-Bat.Masterson-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/8OxFU939AMas2yV7fohnYf74dEX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8vKrcxvahZA5IKDO96521GmS0o4.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]Caminho para a Vitória
+[B]Bat Masterson
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2021
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]GUERRA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 010 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Imagens históricas e comentários de especialistas trazem mais detalhes sobre os principais 
-personagens e os momentos decisivos da Segunda Guerra.
-[COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1958 a 1960
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPS - 108 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Bat Masterson é uma série de televisão americana de faroeste que mostrou um relato 
+ficcional da vida do marechal/jogador/dândi da vida real Bat Masterson.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]24 Horas (2001-2014) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2A-LS-ACA-ALL/main/C002-SRS-24.Horas.2001-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/9I4ktOf2MSIHXo8FcmUVbwiBMV5.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/kontV67LzDYqGXWKStWeZIrFYxv.jpg</fanart>
+<name>[COLOR white][B]Billy the Kid (2022) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name> 	
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C9-SRS-Billy.Kid-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/ai1OtWMAtnlj478oFHPoBVKbrDR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qe5YpbG58snbEO3heyn2r3sVfYj.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]24 Horas
+[B]Billy the Kid
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2001 a 2014
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AÇÃO
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]09 TEMPs - +200 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O Agente federal Jack Bauer não se pode dar ao luxo de jogar pelas regras. Como membro da 
-UCT, Jack deve parar bombas, vírus, tentativas de assassinato, e salvar alguém que lhe é próximo.
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 08 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A história segue Billy the Kid desde suas humildes raízes irlandesas até seu papel 
+fundamental na Guerra do Condado de Lincoln.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Bonanza (1959-1973) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name> 	
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C8-SRS-Bonanza-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/Afbpw3U5hJCsteIZbsGV34wrPpp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sgCr36Emd8PgdUghmkxJ2uA1KHM.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Bonanza
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1959 a 1973
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]14 TEMPS - 430 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As aventuras em Alta Sierra de Ben Cartwright e seus filhos enquanto eles correm e 
+defendem seu rancho enquanto ajudam a comunidade ao redor.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "C"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<channels>
+<channel>
+<name>[COLOR white][B]Chaparral (1967-1971) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name> 	
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C10-SRS-Chaparral-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/13MqGrDjk9KfCSt7emHf1nUsZyz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uK8TlYFhat6hFYSGTwJMO9Uu2WN.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Chaparral
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1967 a 1971
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPS - 98 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A família Cannon se esforça para manter o negócio de gado vivo em sua fazenda no Arizona, 
+na década de 1870.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "D"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<channels>
+<channel>
+<name>[COLOR white][B]Daniel Boone (1964-1970) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name> 	
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C7-SRS-Daniel.Boone-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/lL4XDk4wRELIqciMtjcrD4TQ5m6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3q8UvO6eeIlFn7DkJ1MexFrselE.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Daniel Boone
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1964 a 1970
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPS - 165  EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Daniel Boone era um pioneiro, caçador e aventureiro que se estabeleceu com sua família na 
+fronteira dos Estados Unidos, a leste do Mississipi, nos idos de 1770. Em suas aventuras, Boone enfrenta os perigos de uma região selvagem.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "E"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "F"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "G"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<channels>
+<channel>
+<name>[COLOR white][B]Godless (2017) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C001-SRS-Godless.2017-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8iHVVdQUYPU0QIm2d2r7sEgQAFE.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Godless
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2017
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 07 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um bandido implacável aterroriza o oeste à procura de um desertor de seu bando que 
+encontrou uma nova vida em uma cidadezinha habitada apenas por mulheres.
 [COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
@@ -97,23 +221,269 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "H"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
 <channels>
 <channel>
-<name>[COLOR white][B]9-1-1 (2018-2024) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2I-LS-CRDR-ALL/main/C13-SRS-911-ALL</externallink>
-<thumbnail>https://image.tmdb.org/t/p/original/vHq6VlLijLppMPFXhWo3hqjYY8q.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/2psvDXu7KRlHq9TANqjknElcaGj.jpg</fanart>
+<name>[COLOR white][B]Hondo (1967) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name> 	
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/D02-COL-Hondo-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/6QemSOG9GTimkAzICjB2LXind9p.jpg</thumbnail>
+<fanart>https://media.themoviedb.org/t/p/w500_and_h282_face/sewnv47MukF6KdXpgw4xEzGwVux.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
-[B]9-1-1
+[B]Hondo 
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1967
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 17 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Hondo é uma série de televisão ocidental de 17 episódios estrelada por Ralph Taeger que 
+foi ao ar nos Estados Unidos pela ABC durante o outono de 1967.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "I"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "J"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<channels>
+<channel>
+<name>[COLOR white][B]James West (1965-1968) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name> 	
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C6-SRS-James.West-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/6LKWkXhA5mtbFUkHIpZQYDYDOTC.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/zxRB1qIKWScHjdlDhtJAByU7xOS.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]James West
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1965 a 1968
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 104 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Os agentes do Serviço Secreto James West e Artemus Gordon resolveram crimes, protegeram o 
+presidente e frustraram os planos de vilões megalomaníacos de assumir o controle de todo ou parte dos Estados Unidos.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "K"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "L"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<channels>
+<channel>
+<name>[COLOR white][B]Lone Ranger (Série)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name> 	
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/D03B-SRS-Lone.Ranger-ALL</externallink>
+<thumbnail>https://i.postimg.cc/PrKgymjd/COL-LONERANGER-ICON-SRS-ALL.png</thumbnail>
+<fanart>https://i.postimg.cc/g2DfM3bY/COL-LONERANGER-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a seção de séries: 
+[B]Lone Ranger
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018 a 2024
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]CRIME
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPs - 106 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]9-1-1 mostra a pressão do trabalho da polícia, de paramédicos e de bombeiros que são 
-incumbidos de resolver as situações mais assustadoras e chocantes para salvar vidas.
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+Não encontrou o que queria ? 
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Longmire: O Xerife (2012-2017) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name> 	
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C14-SRS-Longmire-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/ba2nuLDLejuAcFnqJYfmztUqym4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nh3n0jQeS0FgWH84kzyc8q5yLEp.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Longmire: O Xerife
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2012 a 2017
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]06 TEMPs - 63 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Viúvo apenas há um ano, Longmire é um homem em reparação psíquica que enterra sua dor 
+atrás de uma cara corajosa e perspicácia.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "M"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "N"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "O"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<channels>
+<channel>
+<name>[COLOR white][B]O Homem de Virginia (1962-1970) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name> 	
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C16-SRS-The.Virginian.1962-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/4QMDiDXdyrdirKkGcyQNN5wxz6u.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wqxjNsYAf23SdNHUfQw4As5pIVa.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Homem de Virginia
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1962 a 1970
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]09 TEMPs - 269 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O Rancho Shiloh no Território de Wyoming da década de 1890 pertence em sequência ao Juiz 
+Henry Garth, aos irmãos Grainger e ao Coronel Alan MacKenzie.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Os Pioneiros (1974-1982) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name> 	
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C12-SRS-Os.Pioneiros-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/iPbWZcxiuMyzcoKjE7tzImyPpt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nqr0zVSm76LkwvlVJHBXpygDx0f.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Os Pioneiros
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1974 a 1982
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]09 TEMPS - 210 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No século XIX ,os Ingalls, são uma família pura e unida que vivia numa pequena casa na 
+pradaria, num pequeno povoado chamado Walnut Grove.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "P"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "Q"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
+<channels>
+<channel>
+<name>[COLOR white][B]Quando Chama o Coração (2014-2024) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name> 	
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C3-SRS-Quando.Chama.o.Corasao-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/5qeKN9LtmjlWWubh85wO5oQ7QgH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/B5r0D49eoD3JUll2MPpOOq5sdc.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Quando Chama o Coração
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2014 a 2024 
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]11 TEMPs - 107 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No início do século 20, Elizabeth Thatcher, uma jovem professora de família rica, recebe 
+sua primeira designação em sala de aula em uma pequena cidade mineira.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "R"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "S"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "T"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+			
+<channels>
+<channel>
+<name>[COLOR white][B]The Big Valley (1965-1968) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name> 	
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C17-SRS-The.Big.Valley.1965-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/5J323H8Dl0dX6IEsMXhaxcLIQW5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/v57TanoRlAwBye6UOF1s6O7GFDf.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]The Big Valley
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1965 a 1968
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 112 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]The Big Valley é uma série de televisão americana de faroeste exibida na ABC de 15 de 
+setembro de 1965 a 19 de maio de 1969. O programa é estrelado por Barbara Stanwyck, como a viúva de um rico fazendeiro da Califórnia do século XIX.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "U"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "V"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "X"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "Y"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<channels>
+<channel>
+<name>[COLOR white][B]Yellowstone (2018-2021) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C002-SRS-Yellowstone-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/lcmDSMFa6NVjeCg9IO9KCxErRj2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eScHwfVVumgrHT9fHdDNhUpcFcR.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Yellowstone
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018 a 2021
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPS - 47  EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]John Dutton tenta proteger seu rancho, o maior dos Estados Unidos, de um mundo corrupto.
 [COLOR black].[/COLOR]
 Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.[/COLOR]</info>
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "W"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "Z"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<channels>
+<channel>
+<name>[COLOR white][B]Zorro (1957-1960) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name> 	
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C4-SRS-Zorro-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/9BPBojrkczIhL18fMa9Ypj5yQ7N.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hvIkmWOglUO2aew7GAn03vKZnOc.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Zorro
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1957 a 1960
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]03 TEMPs - 82 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As origens do justiceiro mascarado são reveladas quando o jovem Diego de la Vega volta de 
+Espanha para a cidade de Los Angeles.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -121,7 +491,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A1-SEL-SRS-NUM-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/C-LS-SRS-WST-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
@@ -131,7 +501,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/refs/heads/main/A1-SEL-SRS-NUM-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/C-LS-SRS-WST-ALL</externallink>
 <thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
 <fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
 </channel>
