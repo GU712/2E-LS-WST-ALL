@@ -105,9 +105,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Billy the Kid (2022) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name> 	
-<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C9-SRS-Billy.Kid-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/ai1OtWMAtnlj478oFHPoBVKbrDR.jpg</thumbnail>
+<name>[COLOR white][B]Billy the Kid (2022) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/C009-SRS-Billy.Kid.2022-ALL</externallink>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qe5YpbG58snbEO3heyn2r3sVfYj.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Billy the Kid
@@ -115,8 +115,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2022
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 08 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A história segue Billy the Kid desde suas humildes raízes irlandesas até seu papel 
-fundamental na Guerra do Condado de Lincoln.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A história segue Billy the Kid desde suas humildes raízes irlandesas até seu 
+papel fundamental na Guerra do Condado de Lincoln.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
