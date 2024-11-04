@@ -147,16 +147,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Sergio Leone (07 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/B4-COL-Leone.Sergio-ALL</externallink>
+<name>[COLOR white][B]Sergio Leone (07 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/B004-COL-Leone.Sergio-ALL</externallink>
 <thumbnail>https://i.ibb.co/ry6RKfK/COL-LEONE-ICON-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/8bzWfNG/COL-LEONE-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]Sergio Leone
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DIRETORES
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -165,7 +166,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <channels>
 <channel>
-<title>[COLOR white][B]Sete Homens (05 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<name>[COLOR white][B]Sete Homens (05 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/B002-COL-Sete.Homens-ALL</externallink>
 <thumbnail>https://i.ibb.co/kGZz7z8/COL-SETEHOMENS-ICO.png</thumbnail>
 <fanart>https://i.ibb.co/2WT3Y2x/COL-SETEHOMENS-FAN.png</fanart>
@@ -210,7 +211,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<title>[COLOR white][B]Um Homem Chamado Cavalo (02 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<name>[COLOR white][B]Um Homem Chamado Cavalo (02 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/B003-COL-Homem.Cavalo-ALL</externallink>
 <thumbnail>https://i.ibb.co/SKF7kJK/COL-H-CAVALO-ICO.png</thumbnail>
 <fanart>https://i.ibb.co/KhtHQxc/COL-H-CAVALO-FAN.png</fanart>
