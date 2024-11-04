@@ -13,16 +13,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Hondo (Filme - Série)[/B][/COLOR]</name>
+<item><name>[COLOR orange][B]Hondo (Filme - Série)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/D02-COL-Hondo-ALL</externallink>
 <thumbnail>https://i.ibb.co/dt2mCMk/COL-HONDO-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/3kwx2wQ/COL-HONDO-FAN.png</fanart>
+<fanart>https://i.ibb.co/P4TZQq1/COL-HONDO-FAN-ALL.png</fanart>
 <info>[COLOR white]Conheça o especial: 
 [B]Hondo
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
