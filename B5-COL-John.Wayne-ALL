@@ -1,165 +1,422 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RQkcVFX/COL-WAYNE-ICON-ALL.png" group-title="[COLOR white][B]John Wayne -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]John Wayne[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iKO9geRUjsY3kIgCGl2kl5OEK3x.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]McQ - Um detetive acima da lei (1974)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/COL.ESP/John.Wayne/McQ.Um.detetive.acima.da.lei.(1974).mkv
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/0ZMvRFx/SEL-ITEM-FLM-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AÇÂO[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AÇÂO[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de ÉPICOS[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RQkcVFX/COL-WAYNE-ICON-ALL.png" group-title="[COLOR white][B]John Wayne -> Filmes de ÉPICOS[/B][/COLOR]",[COLOR orange][B]John Wayne[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/feOyulW7mG9rQr48bTycvp5pPLs.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de ÉPICOS[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Sangue de Barbaros (1956)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/COL.ESP/John.Wayne/Sangue.de.Barbaros.(1956).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/le3B0Bg4bCTDfQyAwah7Mt2e93H.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de ÉPICOS[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Depois do Vendaval (1952)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/COL.ESP/John.Wayne/Depois.do.Vendaval.The.Quiet.Man.(1952).mkv
+NUMERAL			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de ÉPICOS[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de ÉPICOS[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de ÉPICOS[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
+LETRA "A"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RQkcVFX/COL-WAYNE-ICON-ALL.png" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]John Wayne[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/onBZylVodM2ObCqox49alecVTI9.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Espírito Indomável (1945)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/COL.ESP/John.Wayne/Back.to.Battan.(1945).mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/iCIoWmBPN9rkJH1z9sccozEmfIa.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Horizonte de glorias (1951)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/COL.ESP/John.Wayne/Horizonte.de.glorias.(1951).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z6KzSOPRZfmLY3SDgPb1dNVstJv.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mares Violentos (1955)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/COL.ESP/John.Wayne/Mares.Violentos.(1955).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7R1taqXDOLhwetCvoGFp4ihICzs.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Mais Longo dos Dias (1962)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-O.Mais.Longo.dos.Dias.1962.FHD.DUAL+LEG.mkv
+				
+<item>
+<title>[COLOR white][B]A Conquista do Oeste (1962) - HD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-A.Conquista.do.Oeste.1962.HD.DUAL+LEG.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hkcKA1d0YPUM2Wr8MXtrYIUjXTq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/e4VWYxYdtiW0zQ7clHqbLPmHKoB.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]A Conquista do Oeste
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1962
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um belo, heroico e grandioso épico que descreve a gênese da América em sua expansão até 
+às últimas fronteiras.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de GUERRA[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RQkcVFX/COL-WAYNE-ICON-ALL.png" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]John Wayne[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hkcKA1d0YPUM2Wr8MXtrYIUjXTq.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Conquista do Oeste (1962)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-A.Conquista.do.Oeste.1962.HD.DUAL+LEG.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5uAkuvmKmr3qxiEqzqk0Th0RCxf.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Coração de Aço (1934)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/COL.ESP/John.Wayne/A.Lei.do.Gatilho.(1934).avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6dvaohBsayEsba8Cy42w6NnPwE7.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Álamo (1960)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-O.Alamo.1960.FHD.DUB+LEG-LS.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/icBkw2losJ8OIWuC67zEOT8s1m2.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Caminhos Ásperos (1953)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/COL.ESP/John.Wayne/Caminhos.Asperos.Hondo.1953.HD.DUAL.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hzxcSilaWXwOm6RXbHT1Mm56o4W.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Cahill, o Xerife do Oeste (1973)[/B][/COLOR]
-https://ls.lsnew.workers.dev/2:/FLMS/5WST-FM/LS-Cahill.Xerife.do.Oeste.1973.FHD.DUB.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/uIi4WXZ4pPjsyWEWpoTXEIpd3QS.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Chacais do Oeste (1973)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Os.Chacais.do.Oeste.1973.FHD.DUB+LEG.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o5HwSBjcAX9As6qUpDDMhXle5Pu.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]El Dorado (1966)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/COL.ESP/John.Wayne/El.Dorado.(1966).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1H0ckvzGlDiEfXL5OrbcOT5E7eR.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Furia no Alaska (1960)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/COL.ESP/John.Wayne/Furia.no.Alaska.(1960).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/l83PumAHw0jytreT7vdQ1kyBytq.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Jake Grandão (1971)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/COL.ESP/John.Wayne/Jake.Grandao.(1971).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/izLoWztICLx9zmwQCbTjf6JnMgu.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Jamais Foram Vencidos (1969)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Jamais.Foram.Vencidos.1969.FHD.DUAL+LEG.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/sDIuinq3XV3OtnEqTC9NzUb7czL.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Marcha de Heróis (1959)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Marcha.de.Herois.1959.HD.DUAL+LEG.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bz4p4mLZ7olf2A2eYsnCbdRtBfH.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Cowboys (1972)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-The.Cowboys.1972.FHD.DUB.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bz4p4mLZ7olf2A2eYsnCbdRtBfH.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Cowboys (1972)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-The.Cowboys.1972.FHD.DUAL.LEGFIX.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oRC4VF4u6NpdiSq5zA0Atrb8hl3.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Ceu Mandou Alguem (1948)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/COL.ESP/John.Wayne/O.Ceu.Mandou.Alguem.(1948).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uO85eZfqIYIcbkfKlfyDUCeNvK7.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Homem Que Matou Facinora (1962)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/COL.ESP/John.Wayne/O.Homem.Que.Matou.Facinora.(1962).avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5yIHwCroj35oQXfppNKCKaEZcLL.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]O Último Pistoleiro (1976)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/COL.ESP/John.Wayne/O.Ultimo.Pistoleiro.(1976).FHD.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/55bX8AYfaEfvkaRYEJqVuG1cSLz.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Comancheros (1961)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Os.Comancheros.1961.FHD.DUAL+LEG.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3cavy1BLDBRoPpsgpLgyW2rFJzq.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Filhos de Katie Elder (1965)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Os.Filhos.de.Katie.Elder.1965.FHD.DUAL+LEG-LS.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zbE1IDcN91G6RxWDBkAqiPE4U1M.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Onde Começa o Inferno(1959)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/COL.ESP/John.Wayne/Onde.Comesa.o.Inferno.Rio.Bravo.(1959).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bMg4BMP60VLqdlcXAOc8jNl6s19.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Quando um Homem e Homem (1963)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/COL.ESP/John.Wayne/Quando.um.Homem.e.Homem(1963).mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7FELCCgD1L7xpW0b0jsNyCzvNmp.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Rastros de Ódio (1956)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Rastros.de.Odio.1956.HD.DUAL+LEG.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zYoK2RkBCmyhIV6UUb6EZLqxmZq.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Rio Bravo (1950)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Rio.Bravo.1950.HD.DUB.mkv
+LETRA "B"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de WESTERN[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
+LETRA "C"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RQkcVFX/COL-WAYNE-ICON-ALL.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]John Wayne[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/60fGnX0IEnYQV0a6Ql6dqF9tuRc.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Hatari! (1962)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/COL.ESP/John.Wayne/Hatari.(1962).mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c4Vnv80Epbl74so5ngAKbR8dhMX.jpg" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Heróis do Inferno (1968)[/B][/COLOR]
-https://ls.lsnew.workers.dev/0:/COL.ESP/John.Wayne/Herois.do.Inferno.(1968).mkv
+<title>[COLOR white][B]Cahill, o Xerife do Oeste (1973) - FHD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Cahill.Xerife.do.Oeste.1973.FHD.DUB.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hzxcSilaWXwOm6RXbHT1Mm56o4W.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/kxOwkKKMj0XRCrMD0x8LFQrVjL9.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Cahill, o Xerife do Oeste 
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1973
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um agente federal obstinado, pai de dois rapazes adolescentes, é obrigado a deixar 
+sua cidade para perseguir um grupo de bandidos. Ao voltar para casa, descobre que o banco local foi assaltado.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
+<item>
+<title>[COLOR white][B]Coração de Aço (1934) - SD DUB+LEG ESP[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/John.Wayne/A.Lei.do.Gatilho.(1934).avi</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5uAkuvmKmr3qxiEqzqk0Th0RCxf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gY75A5OHlqmeLbkL2bQuULB9Sss.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Coração de Aço
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]SD DUB+LEG ESP
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1934
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white] Malgrove, o chefe de um bando de foras-da-lei, deseja ficar com todas as 
+terras da região, porque há ouro no solo. Para isso, ele força toda a população a abandonar a cidade.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME					
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]John Wayne -> Filmes de AVENTURA[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "D"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
+LETRA "E"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR white][B]El Dorado (1966) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/John.Wayne/El.Dorado.(1966)HD.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/d2Q2MYMrv9CObVoRQtTAx2PNSwg.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bjrUbOeyIRiWqPEQJ437e4PYvta.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]El Dorado
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD HD SD DUB DUAL+LEG FIX
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1966
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um xerife bêbado e sem dignidade é ajudado por um pistoleiro, um jovem que prefere 
+facas a revólveres e um veterano da guerra contra os índios, a se recuperar na luta contra um fazendeiro inescrupuloso.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "F"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "G"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "H"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+			
+<item>
+<title>[COLOR white][B]Hondo - Caminhos Ásperos (1953) - HD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link><link>https://ls.lsnew.workers.dev/0:/FLMS/5WST-CL/Hondo/LS-1953.Caminhos.Asperos.Hondo.HD.DUAL+LEG-LS.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/icBkw2losJ8OIWuC67zEOT8s1m2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zZWFQH8Sh5g3FsljHEZJVa9Lgwg.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Hondo - Caminhos Ásperos
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1953
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Hondo Lane, membro da cavalaria, encontra Angie, uma mulher que mora sozinha com o 
+filho no meio do território hostil dos apaches.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "I"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "J"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
+<item>
+<title>[COLOR white][B]Jamais Foram Vencidos (1969) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Jamais.Foram.Vencidos.1969.FHD.DUAL+LEG.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/izLoWztICLx9zmwQCbTjf6JnMgu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rPSewTPPQXdmp8y5Mreq5aOnzOL.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Jamais Foram Vencidos
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1969
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O ex Coronel Confederado James Langdon lidera um grupo de refugiados sulistas à procura de 
+uma nova vida no México.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "K"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "L"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "M"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
+<item>
+<title>[COLOR white][B]Marcha de Heróis (1959) - HD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Marcha.de.Herois.1959.HD.DUAL+LEG.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sDIuinq3XV3OtnEqTC9NzUb7czL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mysr4oBu0FqOPuFePdpKzIhjBfw.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Marcha de Heróis
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1959
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A coragem e determinação de uma tropa da Cavalaria para cumprir uma missão arriscada 
+em território inimigo.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "N"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
+<item>
+<title>[COLOR white][B]No Tempo das Diligências (1939) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/5:/Filmes/Filmes%20Antigos%20(4054)/No%20Tempo%20das%20Dilig%C3%AAncias%20(1939)%20BluRay%201080p%20Dual%20%C3%81udio/No%20Tempo%20das%20Dilig%C3%AAncias%20(1939)%20BluRay%201080p%20Dual%20%C3%81udio.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/7dttd14XW2y4ZSo98PbnfyRrErQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nkUbnGJZI5Pv9V58hUTgjrwc7tO.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]No Tempo das Diligências
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1939
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Uma diligência atravessa o Monument Valley, entre Tonto e Lordsburg, com cinco passageiros, 
+aos quais se junta Ringo Kid, que viaja para acertar as contas com os irmãos Plummer.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "O"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+<item>
+<title>[COLOR white][B]O Álamo (1960) - FHD DUB+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-O.Alamo.1960.FHD.DUB+LEG-LS.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/6dvaohBsayEsba8Cy42w6NnPwE7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xCve2Qw4gSIv7Fsvq6U1GLpXFfA.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Álamo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1960
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Em 1836, o general Santa Anna e o exército mexicano estão varrendo o Texas. Para poder detê-lo, 
+o general Sam Huston precisa de tempo para criar uma resistência.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]O Mais Longo dos Dias (1962) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/3GRR-FM/2GR/LS-O.Mais.Longo.dos.Dias.1962.FHD.DUAL+LEG.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7R1taqXDOLhwetCvoGFp4ihICzs.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/8DynrJ8S0Ugmgsu7BDLsrsRlBMO.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]O Mais Longo dos Dias
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1962
+[COLOR orange]GUERRA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O maior ataque que o mundo já viu, acontecido no dia 6 de junho, ficou conhecido como o 
+Dia D e desbancou o domínio nazista na Europa. A ofensiva, que envolveu mais de 3 milhões de homens.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Chacais do Oeste (1973) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/COL.ESP/John.Wayne/LS-1973.Os.Chacais.do.Oeste.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uIi4WXZ4pPjsyWEWpoTXEIpd3QS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nN32DYwhCd4x94Jt3KjY0R45Rug.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Os Chacais do Oeste
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1973
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Três veteranos da guerra civil americana se unem a uma viúva ladra de trens para reaver meio milhão
+ de dólares em ouro escondido. 
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Comancheros (1961) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Os.Comancheros.1961.FHD.DUAL+LEG.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/55bX8AYfaEfvkaRYEJqVuG1cSLz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/1maDoRCH1XhCyZN6HbifjRn8EiB.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Os Comancheros
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1961
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O Capitão Cutter é um Texas Ranger determinado a encontrar e destruir um grupo de 
+bandidos que vende armas para os índios e são chamados de Comancheros. 
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Cowboys (1972) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-The.Cowboys.1972.FHD.DUAL+LEG-LS.mkv</link>				
+<thumbnail>https://www.themoviedb.org/t/p/original/srdRiGV9tYFzWd2C4IjPJNtLrmr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dhZ0wrnc9f1fMLGn9N7CO2VQg1c.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Os Cowboys
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1972
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Tudo o que eles queriam era a chance de serem homens... e ele deu a eles.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Os Filhos de Katie Elder (1965) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Os.Filhos.de.Katie.Elder.1965.FHD.DUAL+LEG-LS.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3cavy1BLDBRoPpsgpLgyW2rFJzq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/u9Yrx1ZYMSvtujeCRlLbNON8hR2.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Os Filhos de Katie Elder
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL+LEG
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1965
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Os quatro filhos de Katie Elder voltam a sua cidade natal para o funeral da mãe. John , 
+o mais velho, é um notório pistoleiro. Tom é o jogador, Matt, o mais quieto, e Bud, o mais novo. 
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "P"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "Q"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "R"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
+<item>
+<title>[COLOR white][B]Rastros de Ódio (1956) - HD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Rastros.de.Odio.1956.HD.DUAL+LEG.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7FELCCgD1L7xpW0b0jsNyCzvNmp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rIPR0nGJmmUeF5wF2OtbeeOZxni.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Rastros de Ódio
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1956
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Ethan chega ao Texas e encontra o seu irmão e a família dele. No dia seguinte, 
+Comanches invadem o rancho, matam todos, e raptam suas sobrinhas.A Busca por elas dura cinco anos.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Rio Bravo (1950) - HD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Rio.Bravo.1950.HD.DUB.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zYoK2RkBCmyhIV6UUb6EZLqxmZq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AA4nDX5yOTIHKw2cRY1E1wmwue.jpg</fanart>
+<info>[COLOR white]Assista aqui o filme: 
+[B]Rio Bravo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]HD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1950
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]WESTERN
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O oficial da união Kirby Yorke está no comando de um posto avançado no Rio Grande no 
+qual ele é responsável pelo treinamento de novos recrutas, um dos quais é o seu filho a quem não vê há 15 anos.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "S"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "T"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "U"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "V"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "W"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "X"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "Y"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA "Z"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
