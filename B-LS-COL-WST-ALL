@@ -2,8 +2,8 @@
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/B-LS-COL-WST-ALL</externallink>
-<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<thumbnail>https://i.ibb.co/yn6Bv4fX/SEL-ITEM-SRS.png</thumbnail>				
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>		
 <info>FAÇA SUA ESCOLHA 
 E DIVIRTA-SE </info>
 </channel>
@@ -188,7 +188,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Spaghetti Western (07 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]Spaghetti Western (05 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/B008-COL-Spaghetti.Western-ALL</externallink>
 <thumbnail>https://i.ibb.co/dP35Gkm/COL-SPAGHETI-ICO.png</thumbnail>
 <fanart>https://i.ibb.co/tDj73m9/COL-SPAGHETI-FAN.png</fanart>
@@ -213,24 +213,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]Terence Hill e Bud Spencer (05 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/B006-COL-Terence.Hill.Bud.Spencer-ALL</externallink>
-<channels>
-<channel>
-<name>[COLOR white][B]Terence Hill e Bud Spencer[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2E-LS-WST-ALL/main/B006-COL-Terence.Hill.Bud.Spencer-ALL</externallink>
 <thumbnail>https://i.ibb.co/3mwY2DNR/COL-TERENCE-BUD-ICO.png</thumbnail>
 <fanart>https://i.ibb.co/B8Lg15X/COL-TERENCE-BUD-FAN.png</fanart>
-<info>[COLOR white]Conheça a coleção: 
-[B]Terence Hill e Bud Spencar
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ATORES
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-[/B][COLOR black].[/COLOR]
-Encontrou erros ?
-Avise o SUPORTE AO USUÁRIO.
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Conheça a coleção: 
 [B]Terence Hill e Bud Spencar
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
@@ -350,7 +334,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR black].[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/B-LS-COL-WST-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -360,7 +344,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/B-LS-COL-WST-ALL</externallink>
 <thumbnail>https://i.ibb.co/nbZ50B0/SEL-ITEM.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -370,7 +354,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]NOVIDADES DA SEMANA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/7-SEL-NEWS-ALL</externallink>
 <thumbnail>https://i.ibb.co/0c3Bj32/RET-MENU-NEWS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]NOVIDADES DA SEMANA
 [COLOR black].[/COLOR]
@@ -390,7 +374,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]NOSTALGIA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/5-SEL-NSTLG-ALL</externallink>
 <thumbnail>https://i.ibb.co/vD7SyB5/RET-MENU-NSTLG.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]NOSTALGIA
 [COLOR black].[/COLOR]
@@ -410,7 +394,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]ESPECIAIS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/4-SEL-ESPC-ALL</externallink>
 <thumbnail>https://i.ibb.co/1Qz2bpD/RET-MENU-SPCS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]ESPECIAIS
 [COLOR black].[/COLOR]
@@ -430,7 +414,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]SÉRIES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bB5Gx7T/RET-MENU-SRS.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]SÉRIES
 [COLOR black].[/COLOR]
@@ -450,7 +434,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]FILMES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
 <thumbnail>https://i.ibb.co/3yFZ2mG/RET-MENU-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]FILMES
 [COLOR black].[/COLOR]
@@ -470,7 +454,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]MENU GERAL[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/1-CATEGORIAS-ALL</externallink>
 <thumbnail>https://i.ibb.co/xqRhHbc/RET-MENU-GRL.png</thumbnail>
-<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>
+<fanart>https://i.ibb.co/Xr8PH1yT/FAN-2.png</fanart>
 <info>[COLOR white]Atalho para a seção de:  
 [B]MENU GERAL
 [COLOR black].[/COLOR]
